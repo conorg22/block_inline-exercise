@@ -1,0 +1,40 @@
+/* Put your CSS rules here: */
+img {
+    border: 10px solid blue;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.picture_container {
+    
+    background-color: black;
+}
+
+.b {
+    font-weight: bold;
+
+}
+.bi {
+    font-weight: bold;
+    font-style: italic;
+
+}
+.bil{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.box {
+    width: 100%;
+    height: 10px;
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+}
+
+
+/* These are for the exercise, please don't edit them! */
+html,body{margin:0;padding:0;}
+body{font-family:sans-serif;}
+.content{width:980px;padding:10px;}
+
+http://jpeg.org/images/jpeg-home.jpg
